@@ -1,3 +1,14 @@
+// override some sass variables
+//
+// Available variables:
+// https://github.com/thomas-mcdonald/bootstrap-sass/blob/master/vendor/assets/stylesheets/bootstrap/_variables.scss
+
+$bodyBackground: #333;
+$heroUnitBackground: #222;
+$heroUnitHeadingColor: #ccc;
+$heroUnitLeadColor: #999;
+
+
 @import 'bootstrap';
 
 body {
